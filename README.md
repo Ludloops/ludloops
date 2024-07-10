@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ludwigpelaez@protonmail.com**
 
-- ⚡ Fun fact **I Love TRON:Legacy, is what made me so passionate about technology and web Development. Also i love Malaga CF.**
+- ⚡ Fun fact **I Love TRON:Legacy, is what made me so passionate about technology and web Development. Also I love Malaga CF.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
