@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>Some projects </p>
 <ul><li>
-<a href="htpps://www.fincamisueno.com" rel="noreferrer"> Finca Mi Sueño PTY</a>
+<a href="htpps://fincamisueno.com" rel="noreferrer">Finca Mi Sueño PTY</a>
 <li>
 <a href="https://fundacionronald.org/casa-malaga/" rel="noreferrer"> Fundacion Ronald Mcdonald Málaga</a>
 </li>
